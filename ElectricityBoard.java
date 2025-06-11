@@ -1,8 +1,4 @@
 package Board;
-
-//public class ElectricityBoard {
-//
-//}
 import java.util.*;
 import java.util.stream.Collectors;
 
